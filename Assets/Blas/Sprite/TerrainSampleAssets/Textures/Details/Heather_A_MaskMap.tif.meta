@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: b6ded0506bb696840be84888da772fcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4732043455193424971
+    second: Heather_A_MaskMap_0
+  - first:
+      213: 2036170631622188185
+    second: Heather_A_MaskMap_1
+  - first:
+      213: 7564002135386486219
+    second: Heather_A_MaskMap_2
+  - first:
+      213: 8773146753034875597
+    second: Heather_A_MaskMap_3
+  - first:
+      213: 235301335139358250
+    second: Heather_A_MaskMap_4
+  - first:
+      213: 3144716453183073629
+    second: Heather_A_MaskMap_5
+  - first:
+      213: -3565265227719781981
+    second: Heather_A_MaskMap_6
+  - first:
+      213: -3936278033172746780
+    second: Heather_A_MaskMap_7
+  - first:
+      213: 2185831934661342845
+    second: Heather_A_MaskMap_8
+  - first:
+      213: 2207813283744188208
+    second: Heather_A_MaskMap_9
+  - first:
+      213: 3815162368616176749
+    second: Heather_A_MaskMap_10
+  - first:
+      213: 7222210824564624563
+    second: Heather_A_MaskMap_11
+  - first:
+      213: -6134694577209962400
+    second: Heather_A_MaskMap_12
+  - first:
+      213: -3464826806230305909
+    second: Heather_A_MaskMap_13
+  - first:
+      213: -3834475628100589923
+    second: Heather_A_MaskMap_14
+  - first:
+      213: 1218935416159828198
+    second: Heather_A_MaskMap_15
+  - first:
+      213: 5190007413274264606
+    second: Heather_A_MaskMap_16
+  - first:
+      213: -3015070992300136588
+    second: Heather_A_MaskMap_17
+  - first:
+      213: -2417638637905916208
+    second: Heather_A_MaskMap_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 584
+        width: 276
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbdb778c87645eb0800000000000000
+      internalID: -4732043455193424971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 631
+        width: 156
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c5cefb66ee14c10800000000000000
+      internalID: 2036170631622188185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 480
+        width: 59
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5f108cddbb8f860800000000000000
+      internalID: 7564002135386486219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 544
+        width: 202
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2f3016d7a70c970800000000000000
+      internalID: 8773146753034875597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_4
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 584
+        width: 154
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2618205155f34300800000000000000
+      internalID: 235301335139358250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_5
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 542
+        width: 148
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dad47e3f644ab20800000000000000
+      internalID: 3144716453183073629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 168
+        width: 409
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1d5bb3a22a58ec0800000000000000
+      internalID: -3565265227719781981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_7
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 545
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eda09febf78f59c0800000000000000
+      internalID: -3936278033172746780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 260
+        width: 192
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76b1344092a55e10800000000000000
+      internalID: 2185831934661342845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_9
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 289
+        width: 163
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03706fbeb7ab3ae10800000000000000
+      internalID: 2207813283744188208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_10
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 354
+        width: 47
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c1ecde5fd22f430800000000000000
+      internalID: 3815162368616176749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_11
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 354
+        width: 46
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcc723ea727a3460800000000000000
+      internalID: 7222210824564624563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_12
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 357
+        width: 54
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06092e7f8cf2ddaa0800000000000000
+      internalID: -6134694577209962400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 139
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83346e80667aefc0800000000000000
+      internalID: -3464826806230305909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 146
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96eb2f6bb439cac0800000000000000
+      internalID: -3834475628100589923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 10
+        width: 309
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e879548d478ae010800000000000000
+      internalID: 1218935416159828198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_16
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 6
+        width: 230
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e144bd99e3c960840800000000000000
+      internalID: 5190007413274264606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_17
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 8
+        width: 57
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477ad5338e05826d0800000000000000
+      internalID: -3015070992300136588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_MaskMap_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 9
+        width: 57
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0decb50d772d27ed0800000000000000
+      internalID: -2417638637905916208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
