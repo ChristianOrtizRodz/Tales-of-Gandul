@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: f721600f79b325341a6a56f52d7e40bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8402424640576396495
+    second: Heather_A_BaseColor_0
+  - first:
+      213: 1776201458310035320
+    second: Heather_A_BaseColor_1
+  - first:
+      213: -4937662442241472022
+    second: Heather_A_BaseColor_2
+  - first:
+      213: -9079157878798737664
+    second: Heather_A_BaseColor_3
+  - first:
+      213: 8747630458923481886
+    second: Heather_A_BaseColor_4
+  - first:
+      213: -1227239000363811787
+    second: Heather_A_BaseColor_5
+  - first:
+      213: 8834942289588786672
+    second: Heather_A_BaseColor_6
+  - first:
+      213: -117762341602069100
+    second: Heather_A_BaseColor_7
+  - first:
+      213: -4266920475001046940
+    second: Heather_A_BaseColor_8
+  - first:
+      213: 4853060091905055795
+    second: Heather_A_BaseColor_9
+  - first:
+      213: 5812015412301650185
+    second: Heather_A_BaseColor_10
+  - first:
+      213: -8105413583637599424
+    second: Heather_A_BaseColor_11
+  - first:
+      213: 8097848421965128399
+    second: Heather_A_BaseColor_12
+  - first:
+      213: 4438892736480010587
+    second: Heather_A_BaseColor_13
+  - first:
+      213: -116599091652289031
+    second: Heather_A_BaseColor_14
+  - first:
+      213: -5587091034517008129
+    second: Heather_A_BaseColor_15
+  - first:
+      213: -484023469158776619
+    second: Heather_A_BaseColor_16
+  - first:
+      213: -3448136801244714100
+    second: Heather_A_BaseColor_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 584
+        width: 276
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133647eae47946b80800000000000000
+      internalID: -8402424640576396495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 630
+        width: 156
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877b91cc0d556a810800000000000000
+      internalID: 1776201458310035320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 480
+        width: 59
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9c86d6b26e97bb0800000000000000
+      internalID: -4937662442241472022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 542
+        width: 202
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f138e330a500280800000000000000
+      internalID: -9079157878798737664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_4
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 544
+        width: 154
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b75823e83d56970800000000000000
+      internalID: 8747630458923481886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_5
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 540
+        width: 148
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c3fc0a1a8f7fee0800000000000000
+      internalID: -1227239000363811787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 167
+        width: 410
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5140ee3350c9a70800000000000000
+      internalID: 8834942289588786672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 259
+        width: 192
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495f3e436cf9d5ef0800000000000000
+      internalID: -117762341602069100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 289
+        width: 166
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468b8b26f6ad8c4c0800000000000000
+      internalID: -4266920475001046940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_9
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 353
+        width: 47
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c10a3e078895340800000000000000
+      internalID: 4853060091905055795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_10
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 352
+        width: 46
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909d55f593d68a050800000000000000
+      internalID: 5812015412301650185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_11
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 356
+        width: 54
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ba7ad3a49c38f80800000000000000
+      internalID: -8105413583637599424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 139
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2603c4c36516070800000000000000
+      internalID: 8097848421965128399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 6
+        width: 146
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51e3f1fc6d1a9d30800000000000000
+      internalID: 4438892736480010587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 8
+        width: 309
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd9ee07eb1c16ef0800000000000000
+      internalID: -116599091652289031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_15
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 5
+        width: 230
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff018d74e4aa672b0800000000000000
+      internalID: -5587091034517008129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_16
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 8
+        width: 57
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0c6d128376849f0800000000000000
+      internalID: -484023469158776619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heather_A_BaseColor_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 9
+        width: 57
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b6bd829d1c520d0800000000000000
+      internalID: -3448136801244714100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
